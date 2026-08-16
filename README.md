@@ -8,10 +8,22 @@
 
 Jouable directement dans le navigateur (ordinateur, mobile, tablette) — et **installable** comme une véritable application, qui fonctionne ensuite **hors-ligne**.
 
+**Android** : tu peux aussi télécharger l'application → 📥 **[Télécharger l'APK](https://github.com/ellies09/enigmus/releases/latest)** *(installe-la en autorisant les « sources inconnues »)*.
+
 ## 📱 Installer sur ton téléphone
 
 - **iPhone / iPad** : ouvre le lien dans **Safari** → **Partager** → **Sur l'écran d'accueil**.
 - **Android** : ouvre le lien dans **Chrome** → menu **⋮** → **Ajouter à l'écran d'accueil**.
+
+## 📸 Aperçu
+
+<p align="center">
+  <img src="screenshot-menu.png" width="30%" alt="Menu d'accueil">
+  &nbsp;&nbsp;
+  <img src="screenshot-puzzle.png" width="30%" alt="Une énigme">
+  &nbsp;&nbsp;
+  <img src="screenshot-stats.png" width="30%" alt="Statistiques et trophées">
+</p>
 
 ## ✨ Le jeu
 
