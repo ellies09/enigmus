@@ -8,7 +8,7 @@
 
 Jouable directement dans le navigateur (ordinateur, mobile, tablette) — et **installable** comme une véritable application, qui fonctionne ensuite **hors-ligne**.
 
-**Android** : tu peux aussi télécharger l'application → 📥 **[Télécharger l'APK](https://github.com/ellies09/enigmus/releases/latest)** *(installe-la en autorisant les « sources inconnues »)*.
+**Android** : tu peux aussi télécharger l'application → 📥 **[Télécharger l'APK](https://github.com/ellies09/enigmus/releases/latest)** *(installe-la en autorisant les « sources inconnues », avec mot de passe date du jour « AAAAMMJJ »)*.
 
 ## 📱 Installer sur ton téléphone
 
