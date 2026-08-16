@@ -1,0 +1,51 @@
+ENIGMUS - Version iPhone (PWA - "Ajouter a l'ecran d'accueil")
+==============================================================
+
+Studio EBSS - EB - System Software (Algeria)
+
+IMPORTANT - CE QU'IL FAUT SAVOIR
+--------------------------------
+Une application iPhone "classique" (App Store, fichier .ipa) NE PEUT PAS etre
+fabriquee sous Windows : Apple impose un Mac + Xcode + un compte Apple Developer
+payant (99 $/an). Ce n'est donc pas realisable ici.
+
+La solution gratuite et immediate est une "PWA" : le jeu s'ajoute a l'ecran
+d'accueil de l'iPhone et se lance en PLEIN ECRAN avec son icone "E?", comme une
+vraie appli. Il fonctionne meme HORS-LIGNE une fois ouvert la premiere fois.
+
+CONTENU DU DOSSIER
+------------------
+- index.html            -> le jeu
+- manifest.webmanifest  -> declaration de l'appli (nom, icone, plein ecran)
+- sw.js                 -> mode hors-ligne
+- apple-touch-icon.png  -> icone "E?" (180 px)
+- icon-192.png / icon-512.png -> icones (accueil / stores PWA)
+
+INSTALLATION SUR IPHONE (3 etapes)
+----------------------------------
+Il faut d'abord mettre ce dossier en ligne (une PWA a besoin d'une adresse https).
+Le plus simple, au choix :
+
+  A) GitHub Pages (gratuit)
+     1. Creez un depot GitHub, deposez-y le CONTENU de ce dossier.
+     2. Settings -> Pages -> Branch: main -> /(root) -> Save.
+     3. Vous obtenez une adresse du type https://VOTRENOM.github.io/enigmus/
+
+  B) Netlify Drop (gratuit, sans compte)
+     1. Allez sur https://app.netlify.com/drop
+     2. Glissez-deposez CE dossier entier.
+     3. Vous obtenez une adresse https immediatement.
+
+Ensuite, sur l'iPhone :
+  1. Ouvrez cette adresse dans SAFARI (obligatoirement Safari, pas Chrome).
+  2. Touchez le bouton Partager (le carre avec une fleche vers le haut).
+  3. Choisissez "Sur l'ecran d'accueil".
+  -> L'icone "E?" Enigmus apparait ; touchez-la : le jeu s'ouvre en plein ecran.
+
+REMARQUES
+---------
+- Apres la 1re ouverture, le jeu marche hors-ligne (avion / sans reseau).
+- Progression, record et reglages sont enregistres sur l'iPhone.
+- Pas de mot de passe sur cette version (le verrou ne concerne que l'APK Android).
+- Pour une VRAIE appli App Store, il faudra un Mac + Xcode (on pourra convertir
+  cette base en projet iOS le moment venu).
