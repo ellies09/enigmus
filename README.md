@@ -10,6 +10,8 @@ Jouable directement dans le navigateur (ordinateur, mobile, tablette) — et **i
 
 **Android** : tu peux aussi télécharger l'application → 📥 **[Télécharger l'APK](https://github.com/ellies09/enigmus/releases/latest)** *(installe-la en autorisant les « sources inconnues », avec mot de passe date du jour « AAAAMMJJ »)*.
 
+**Aussi sur itch.io** : joue en ligne, ou télécharge les versions **Android** et **Windows** → 🎮 **[Enigmus sur itch.io](https://ellies09.itch.io/enigmus)**.
+
 ## 📱 Installer sur ton téléphone
 
 - **iPhone / iPad** : ouvre le lien dans **Safari** → **Partager** → **Sur l'écran d'accueil**.
